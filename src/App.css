@@ -114,6 +114,11 @@ form > span > .row > label {
   padding: 12px;
 }
 
+.logo-home {
+  width: 50%;
+  height: auto;
+}
+
 .link {
   color: #007bff;
 }

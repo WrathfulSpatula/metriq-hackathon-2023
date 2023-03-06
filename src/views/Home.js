@@ -2,6 +2,7 @@ import React, { useEffect } from 'react'
 import ViewHeader from '../components/ViewHeader'
 import ViewSubHeader from '../components/ViewSubHeader'
 import FieldWideRow from '../components/FieldRow'
+import logo from '../images/metriq_logo_primary_blue_inverted.png'
 
 const Home = () => {
   useEffect(() => {
@@ -13,6 +14,9 @@ const Home = () => {
       <ViewHeader>
         The first <a target='_blank' href='https://metriq.info' rel='noreferrer'>Metriq</a> hackathon is on March 24 and 25, 2023!
       </ViewHeader>
+      <div className='text-center'>
+        <img src={logo} className={'logo-home'} alt='Metriq logo' />
+      </div>
       <br />
       <ViewSubHeader>
         Rules and Prizes
