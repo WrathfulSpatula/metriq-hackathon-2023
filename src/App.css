@@ -34,6 +34,12 @@ textarea {
   margin: 0 50px;
 }
 
+.metriq-navbar-button {
+  font-weight: bold;
+  color: black;
+  background-color: white;
+}
+
 .metriq-navbar-text {
   padding-top: 0.9rem;
   color:black;

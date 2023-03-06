@@ -12,7 +12,7 @@ import MainNavbar from './components/MainNavbar'
 const MainRouter = () => {
   return (
     <Router>
-      <MainNavbar title='Metriq Hackathon, March 2023' subtitle={<span>Make <a target="_blank" href="https://metriq.info/AddSubmission">submissions</a> and tackle <a target="_blank" href="https://github.com/unitaryfund/metriq-app/issues">issues</a> to win stickers and swag!</span>} />
+      <MainNavbar title='Metriq Hackathon, March 2023' subtitle={<span>Make <a target='_blank' href='https://metriq.info/AddSubmission' rel='noreferrer'>submissions</a> and tackle <a target='_blank' href='https://github.com/unitaryfund/metriq-app/issues' rel='noreferrer'>issues</a> to win stickers and swag!</span>} />
       <Switch>
         <Route
           exact
