@@ -31,7 +31,19 @@ const Home = () => {
       </FieldWideRow>
       <br />
       <FieldWideRow>
-        To register for the event, you must <a target="_blank" href="https://metriq.info/Register">create an account on</a> the Metriq web app, but no other special registrations or actions are necessary. You can register at any time during the event, to be eligible for prizes.
+        To register for the event, you must <a target="_blank" href="https://metriq.info/Register">create an account on</a> the Metriq web app, but no other special event registration is necessary. You can register at any time during the event, to be eligible for prizes.
+      </FieldWideRow>
+      <br />
+      <FieldWideRow>
+        Hackathon participants agree to abide by Unitary Fund's <a target="_blank" href="https://github.com/unitaryfund/unitary-fund/blob/master/CODE_OF_CONDUCT.md">Contributor Covenant Code of Conduct</a>. (Violating the code of conduct, as ruled by the Metriq development team, may result in loss of eligibility for prizes.)
+      </FieldWideRow>
+      <br/>
+      <ViewSubHeader>
+        Agenda and Timeline
+      </ViewSubHeader>
+      <br/>
+      <FieldWideRow>
+        There will be a kick-off streaming event on March 24. Please plan to have your pull requests <i>accepted and closed</i> by end-of-day on March 25, in your own local timezone, (but the Metriq development team can, entirely at its discretion, likely make exceptions for extenuating circumstances that cause participants to miss the deadline, also since the Metriq team is local to Eastern time zone and might not be able to respond to all pull requests in before the technical deadline on March 25).
       </FieldWideRow>
     </div>
   )
