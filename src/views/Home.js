@@ -27,7 +27,7 @@ const Home = () => {
       </FieldWideRow>
       <br />
       <FieldWideRow>
-        You can also win a Unitary Fund sticker pack by making a code contribution to Metriq from the repository's <a target='_blank' href='https://github.com/unitaryfund/metriq-app/issues' rel='noreferrer'>issues list</a>. The first pull request addressing a specific issue that is accepted by the Metriq developement team will receive the prize, entirely at the Metriq development team's discretion.
+        You can also win a Unitary Fund sticker pack by making a code contribution to Metriq from the repository's <a target='_blank' href='https://github.com/unitaryfund/metriq-app/issues' rel='noreferrer'>issues list</a>, (inluding the Metriq Python client <a target='_blank' href='https://github.com/unitaryfund/metriq-client/issues' rel='noreferrer'>issues list</a>). The first pull request addressing a specific issue that is accepted by the Metriq developement team will receive the prize, entirely at the Metriq development team's discretion.
       </FieldWideRow>
       <br />
       <FieldWideRow>
