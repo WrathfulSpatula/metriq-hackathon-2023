@@ -31,6 +31,10 @@ const Home = () => {
       </FieldWideRow>
       <br />
       <FieldWideRow className={'text-left'}>
+        (At most, one sticker pack will be awarded per hackathon participant.)
+      </FieldWideRow>
+      <br />
+      <FieldWideRow className={'text-left'}>
         Two participants who close the most issues, (or who are tied for most closed issues but lead in submission count made), will receive Unitary Fund swag packs!
       </FieldWideRow>
       <br />
