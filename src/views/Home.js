@@ -23,7 +23,7 @@ const Home = () => {
       </ViewSubHeader>
       <br />
       <FieldWideRow>
-        You can win a Unitary Fund sticker pack by <a target='_blank' href='https://metriq.info/AddSubmission' rel='noreferrer'>submitting</a> a quantum-technology related journal article, preprint, or code repository URL on March 24 or 25, 2023, (or any URL can be a "submission" if it contains a "result" or announcement relevant to quantum technology).
+        You can win a Unitary Fund sticker pack by <a target='_blank' href='https://metriq.info/AddSubmission' rel='noreferrer'>submitting</a> a quantum-technology-related journal article, preprint, or code repository URL on March 24 or 25, 2023, (or any URL can be a "submission" if it contains a "result" or announcement relevant to quantum technology).
       </FieldWideRow>
       <br />
       <FieldWideRow>
@@ -35,7 +35,7 @@ const Home = () => {
       </FieldWideRow>
       <br />
       <FieldWideRow>
-        To register for the event, you must <a target='_blank' href='https://metriq.info/Register' rel='noreferrer'>create an account on</a> the Metriq web app, but no other special event registration is necessary. You can register at any time during the event, to be eligible for prizes.
+        To register for the event, you must <a target='_blank' href='https://metriq.info/Register' rel='noreferrer'>create an account</a> on the Metriq web app, but no other special event registration is necessary. You can register at any time during the event, to be eligible for prizes.
       </FieldWideRow>
       <br />
       <FieldWideRow>
