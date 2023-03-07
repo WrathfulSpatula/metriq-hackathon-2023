@@ -171,6 +171,10 @@ iframe {
   text-align: center;
 }
 
+.text-left {
+  text-align: left;
+}
+
 .display-linebreak {
   white-space: pre-line;
 }
