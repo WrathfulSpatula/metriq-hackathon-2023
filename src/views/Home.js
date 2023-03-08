@@ -51,7 +51,7 @@ const Home = () => {
       </ViewSubHeader>
       <br />
       <FieldWideRow className={'text-left margin-8'}>
-        There will be a kick-off streaming event on March 24 and a closing event on March 25. Please plan to have your pull requests <i>accepted and closed</i> by end-of-day on March 25, in your own local timezone, (but the Metriq development team can, entirely at its discretion, likely make exceptions for extenuating circumstances that cause participants to miss the deadline, also since the Metriq team is local to Eastern time zone and might not be able to respond to all pull requests opened before the technical deadline on March 25).
+        There will be a kick-off streaming event on March 24 and a closing event on March 25. Please plan to have your pull requests <i>accepted and closed</i> by end-of-day on March 25, in your own local time zone, (but the Metriq development team can, entirely at its discretion, likely make exceptions for extenuating circumstances that cause participants to miss the deadline, also since the Metriq team is local to Eastern time zone and might not be able to respond to all pull requests opened before the technical deadline on March 25).
       </FieldWideRow>
     </div>
   )
